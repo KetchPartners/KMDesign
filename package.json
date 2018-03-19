@@ -1,0 +1,28 @@
+{
+  "name": "kmdesign",
+  "version": "0.0.1",
+  "description": "Design Specification for KM Rollout of SAP CPM",
+  "main": "index.html",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KetchPartners/KMDesign.git"
+  },
+  "keywords": [
+    "sap"
+  ],
+  "author": "David Beach",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KetchPartners/KMDesign/issues"
+  },
+  "homepage": "https://github.com/KetchPartners/KMDesign#readme",
+  "devDependencies": {
+    "gitbook": "^3.2.3"
+  },
+  "dependencies": {
+    "bpmn-moddle": "^2.1.2"
+  }
+}
