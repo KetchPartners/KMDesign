@@ -1,0 +1,9 @@
+# Node.js and NPM
+
+node_modules
+
+# Ignore the file tst.md
+
+
+# Ignore everything in the directory "bin"
+
